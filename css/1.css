@@ -1,0 +1,502 @@
+/* главное*/
+html {
+    margin: 0px;
+    background-image: url(https://w-dog.ru/wallpapers/3/25/468030970779836/fon-dlya-stola-tekstura-chernyj.jpg) ;
+}
+body{
+    font-family:'Snell Roundhand', cursive , fantasy ;
+}
+    
+
+.imgRafis2{
+    max-width: 70%;
+    margin-top: 50px;
+   margin-left: 230px;
+    padding:20px;
+    padding-bottom: 50px;
+    
+    background-color: grey ;
+    z-index: 1;
+   
+}
+.nazat{
+    font-size: 40px;
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 250px;
+    z-index: 3;
+    color: #111111;
+   
+}
+.g_disk{
+    max-width: 4%;
+    position: absolute;
+    margin-top: 798px;
+    margin-left: -83px;
+    
+    z-index: 3;
+    
+}
+.img1{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:50px;
+    padding: 10px;
+    background-color:  grey;
+    margin-left: 30px;
+}
+.img2{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:50px;
+    margin-left: 660px;
+    padding: 10px;
+    background-color:  grey;
+
+}
+.img3{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:50px;
+    margin-left: 1290px;
+    padding: 10px;
+    background-color:  grey;
+}
+.img4{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:400px;
+    margin-left: 30px;
+    padding: 10px;
+    background-color:  grey;
+}
+.img5{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:400px;
+    margin-left: 660px;
+    padding: 10px;
+    background-color:  grey;
+}
+.img6{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:400px;
+    margin-left: 1290px;
+    padding: 10px;
+    background-color:  grey;
+}
+@media(max-width: 450px){
+    .imgRafis2{
+        max-width: 80%;
+        margin-top: 50px;
+       margin-left: 20px;
+        padding:10px;
+        padding-bottom: 30px;
+        
+        background-color:  grey;
+        z-index: 1;
+       
+    }
+    .nazat{
+        font-size: 20px;
+        position: absolute;
+        margin-top:250px;
+        margin-left: 25px;
+        z-index: 3;
+       
+    }
+    .g_disk{
+        max-width: 10%;
+        position: absolute;
+        margin-top: 247px;
+        margin-left: -47px;
+       
+        z-index: 3;
+        
+    }
+    .img1{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top: 20px;
+        margin-left: 7px;
+        padding: 5px;
+    }
+    .img2{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:20px;
+        margin-left: 210px;
+        padding: 5px;
+    
+    }
+    .img3{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:140px;
+        margin-left: 7px;
+        padding: 5px;
+    }
+    .img4{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:140px;
+        margin-left: 210px;
+        padding: 5px;
+    }
+    .img5{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:260px;
+        margin-left: 7px;
+        padding: 5px;
+    }
+    .img6{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:260px;
+        margin-left: 210px;
+        padding: 5px;
+    }
+}
+
+
+@media(max-width: 420px){
+    
+   
+    .nazat{
+        font-size: 20px;
+        position: absolute;
+        margin-top:240px;
+        margin-left: 25px;
+        z-index: 3;
+       
+    }
+    .g_disk{
+        max-width: 10%;
+        position: absolute;
+        margin-top: 237px;
+        margin-left: -47px;
+       
+        z-index: 3;
+        
+    }
+}
+
+
+
+@media(max-width: 395px){
+   
+    .nazat{
+        font-size: 20px;
+        position: absolute;
+        margin-top:230px;
+        margin-left: 25px;
+        z-index: 3;
+       
+    }
+    .g_disk{
+        max-width: 10%;
+        position: absolute;
+        margin-top: 227px;
+        margin-left: -47px;
+       
+        z-index: 3;
+        
+    }
+    
+}
+
+
+@media(max-width: 375px){
+    .nazat{
+        font-size: 20px;
+        position: absolute;
+        margin-top:220px;
+        margin-left: 25px;
+        z-index: 3;
+       
+    }
+    .g_disk{
+        max-width: 10%;
+        position: absolute;
+        margin-top: 217px;
+        margin-left: -47px;
+       
+        z-index: 3;
+        
+    }
+    .img1{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top: 20px;
+        margin-left: 2px;
+        padding: 5px;
+    }
+    .img2{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:20px;
+        margin-left: 200px;
+        padding: 5px;
+    
+    }
+    .img3{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:140px;
+        margin-left: 2px;
+        padding: 5px;
+    }
+    .img4{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:140px;
+        margin-left: 200px;
+        padding: 5px;
+    }
+    .img5{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:260px;
+        margin-left: 2px;
+        padding: 5px;
+    }
+    .img6{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:260px;
+        margin-left: 200px;
+        padding: 5px;
+    }
+}
+
+@media(max-width: 360px){
+    .nazat{
+        font-size: 20px;
+        position: absolute;
+        margin-top:215px;
+        margin-left: 25px;
+        z-index: 3;
+       
+    }
+    .g_disk{
+        max-width: 10%;
+        position: absolute;
+        margin-top: 212px;
+        margin-left: -47px;
+       
+        z-index: 3;
+        
+    }
+    .img1{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top: 20px;
+        margin-left: 2px;
+        padding: 5px;
+    }
+    .img2{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:20px;
+        margin-left: 190px;
+        padding: 5px;
+    
+    }
+    .img3{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:140px;
+        margin-left: 2px;
+        padding: 5px;
+    }
+    .img4{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:140px;
+        margin-left: 190px;
+        padding: 5px;
+    }
+    .img5{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:260px;
+        margin-left: 2px;
+        padding: 5px;
+    }
+    .img6{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:260px;
+        margin-left: 190px;
+        padding: 5px;
+    }
+   
+}
+
+@media(max-width: 280px){
+    .nazat{
+        font-size: 20px;
+        position: absolute;
+        margin-top:180px;
+        margin-left: 25px;
+        z-index: 3;
+        
+       
+    }
+    .g_disk{
+        max-width: 10%;
+        position: absolute;
+        margin-top: 180px;
+        margin-left: -47px;
+       
+        z-index: 3;
+        
+    }
+    .img1{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top: 20px;
+        margin-left: 5px;
+        padding: 5px;
+    }
+    .img2{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:20px;
+        margin-left: 140px;
+        padding: 5px;
+    
+    }
+    .img3{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:100px;
+        margin-left: 5px;
+        padding: 5px;
+    }
+    .img4{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:100px;
+        margin-left: 140px;
+        padding: 5px;
+    }
+    .img5{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:180px;
+        margin-left: 5px;
+        padding: 5px;
+    }
+    .img6{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:180px;
+        margin-left: 140px;
+        padding: 5px;
+    }
+}
+@media(max-width: 250px){
+    .nazat{
+        font-size: 20px;
+        position: absolute;
+        margin-top:165px;
+        margin-left: 25px;
+        z-index: 3;
+        
+       
+    }
+    .g_disk{
+        max-width: 15%;
+        position: absolute;
+        margin-top: 160px;
+        margin-left: -47px;
+       
+        z-index: 3;
+        
+    }
+    .img1{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top: 20px;
+        margin-left: 5px;
+        padding: 5px;
+    }
+    .img2{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:20px;
+        margin-left: 120px;
+        padding: 5px;
+    
+    }
+    .img3{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:100px;
+        margin-left: 5px;
+        padding: 5px;
+    }
+    .img4{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:100px;
+        margin-left: 120px;
+        padding: 5px;
+    }
+    .img5{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:180px;
+        margin-left: 5px;
+        padding: 5px;
+    }
+    .img6{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:180px;
+        margin-left: 120px;
+        padding: 5px;
+    }
+   }
+
+
+   
